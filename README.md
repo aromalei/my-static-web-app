@@ -8,7 +8,7 @@ products:
 description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
 urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
 ---
-
+add line about branch protection
 # Official Microsoft Sample
 
 Follow the hands-on tutorial to [publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=mslearn_staticwebapp-github-jopapa).
